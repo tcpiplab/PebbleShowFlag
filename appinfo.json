@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lshep.usc@gmail.com",
+    "longName": "show flag",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/us_flag_dith.png",
+                "menuIcon": true,
+                "name": "US_FLAG_IMAGE",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "show flag",
+    "uuid": "258064b7-d9a5-4541-b066-2318a45fc338",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
